@@ -15,7 +15,7 @@
 - **Dataset** : Credit Card Fraud Detection
 - **Source** : Kaggle – https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 - **Auteur** : Analyse complète
-- **Date** : Novembre 2025
+- **Date** : Decembre 2025
 
 ---
 
